@@ -4,7 +4,7 @@
     <img src="Images/logo.png" alt="Logo" width="140" height="">
   </a>
   </p> -->
-
+<font color="black">
   ![Header](Images/header.png)
 
 
@@ -86,11 +86,11 @@ Now you have an idea of what I'm capable of, but let's look into that more - her
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ### GitHub Stats
 <p align="center" width=100%>
-    <img src="https://github-readme-stats.vercel.app/api?username=alexapea&theme=vue&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=alexapea&theme=vue&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 80%;">
     <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexapea&theme=vue&hide_border=false" alt="GitHub Streak" style="width: 100%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexapea&theme=vue&hide_border=false" alt="GitHub Streak" style="width: 80%;">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexapea&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexapea&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 80%;">
 </p>
 
 ### Profile visits
