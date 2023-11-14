@@ -1,10 +1,10 @@
-
+<font color="black">
    <!-- <p align="center">
   <a href="https://github.com/AlexaPea/FaceFitMeadow ">
     <img src="Images/logo.png" alt="Logo" width="140" height="">
   </a>
   </p> -->
-<font color="black">
+
   ![Header](Images/header.png)
 
 
@@ -107,3 +107,5 @@ Feel free to reach out to me through the following channels:
 - 📷 Instagram: [@byAlexaPettitt](https://www.instagram.com/byalexapettitt/?hl=en)
 - 📄 [CV Download](https://drive.google.com/file/d/1tIV_PuxgSWxdeTh9n1hfN7IxBshOtChT/view)
 - 🌐 [My Website](https://alexa-pettitt-portfolio.webflow.io/)
+
+</font>
