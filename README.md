@@ -1,7 +1,7 @@
 ![Header](Images/header.png)
 
 ## Hi there, I'm Alexa 👋
-### So a bit about me...
+### So a Bit About Me...
   ![Header](Images/header2.png)
 ### Let's Connect!
 Curious to know what I'm all about as a Dev and UX/UI Designer?
