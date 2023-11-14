@@ -26,7 +26,7 @@ Now onto one of my all time favourites - Whimsy.
 
 Whimsy, a cross-platform mobile app developed using React Native and Firebase, is an engaging platform centered around a captivating bedtime story competition. Writers compete across genres to craft the most captivating bedtime short story, vying for inclusion in the revered "Dreamland Storybook." Being featured in this collection amplifies visibility for emerging authors, potentially catching the eye of publishers.
 
-[![Project2](Images/whimsy.png)](https://github.com/AlexaPea/Whimsy-ReactNative)
+[![Project2](Images/whimsy2.png)](https://github.com/AlexaPea/Whimsy-ReactNative)
 
 
 ### Nova
