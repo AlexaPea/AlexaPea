@@ -14,9 +14,9 @@ Click the image above to meet me and witness a brief preview of my journey. Let'
 
 ## Take a Peak at Some of My Work 👀
 ### Juicier
-Let's start off with the first project of the year, one that pushed me creatively and technically - Jucier.
+Let's start off with the first project of the year, one that pushed me creatively and technically - Juicier.
 
-Juicier is a full MERN stack application that allows users to keep track of their ingredient and burger inventory across the franchises different locations! It allows for easy inventory management, ensuring users a quick and easy solution to their management needs!
+Juicier is a full MEAN stack application that allows users to keep track of their ingredient and burger inventory across the franchises different locations! It allows for easy inventory management, ensuring users a quick and easy solution to their management needs!
 
 [![Project1](Images/jucier.png)](https://github.com/AlexaPea/Juicier-AngularProject)
 
